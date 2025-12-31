@@ -17,3 +17,4 @@ Run all roles:
 
 ```bash
 ansible-playbook -i inventory.ini setup.yml
+https://github.com/juni60/ansible-server-setup
