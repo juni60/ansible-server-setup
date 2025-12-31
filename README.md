@@ -1,1 +1,2 @@
-https://github.com/juni60/ansible-server-setup
+
+https://github.com/juni60/ansible-server-setup.git
